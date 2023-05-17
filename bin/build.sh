@@ -1,0 +1,1 @@
+npx @openapitools/openapi-generator-cli generate -i definition/swagger.yaml -g ruby -o ./ --package-name reed_sdk --global-property=apiDocs=true -c config.yaml

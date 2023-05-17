@@ -1,0 +1,1 @@
+wget -O ./bin/swagger-codegen.jar https://oss.sonatype.org/content/repositories/releases/io/swagger/swagger-codegen-cli/2.2.1/swagger-codegen-cli-2.2.1.jar
